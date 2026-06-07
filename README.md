@@ -7,6 +7,7 @@ Qué incluye
 •	SUVs eléctricos 
 •	Sedanes eléctricos
 •	Híbridos enchufables
+
 Cada modelo  contiene su precio, modelo, marca, año y colores de que vienen mostrando:
 
 •	Precio en dólares
@@ -26,5 +27,5 @@ Se aplicaron las siguientes propiedades:
 •	Sección Principal,
 •	Pie de página
 
-
+Visite la page en: 
 
